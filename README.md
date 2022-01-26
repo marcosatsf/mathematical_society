@@ -50,7 +50,8 @@ Finished last generation of polynomial -> 6*x**6+15*x**5-12*x-10*x**2
 Got best -> f(-2.1249) = -117.1501 ...
 it's genes -> [0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1], at generation 21
 ```
-If we analyze it from a chart perspective, it's possible to conclude that on both equations, we found one of root of it 😀 
+If we analyze it from a chart perspective, it's possible to conclude that on both equations, we found one root of it 😀 
+Thanks to the Mathematical Society, you're shockingly beautiful ❤️
 
 ![Alt text](./media/poly_chart.png?raw=true "Chart of both equations")
 
